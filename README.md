@@ -12,8 +12,8 @@ It is based upon the MitC concept ([Kammouh et al., 2021](https://doi.org/10.106
 It integrates preference based IMAP optimization and probabilistic network planning, 
 incorporating both activity uncertainties and risk events.
 
-The IMAP optimization is based on [the Preferendus](https://github.com/TUDelft-Odesys/Preferendus) 
-principles following the Odesys methodology ([Wolfert, 2023](https://doi.org/10.3233/RIDS10); 
+The IMAP optimization is based on the Preferendus principles following the Odesys 
+methodology ([Wolfert, 2023](https://doi.org/10.3233/RIDS10); 
 [Van Heukelum et al., 2024](https://doi.org/10.1080/15732479.2023.2297891)). 
 For preference aggregation as part of IMAP, the [A-fine Aggregator](https://github.com/Boskalis-python/a-fine-aggregator) algorithm 
 is used.
